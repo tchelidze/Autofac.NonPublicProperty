@@ -8,6 +8,8 @@
 
  - [internal property injection](https://github.com/tchelidze/Autofac.NonPublicProperty/blob/master/test/Autofac.Core.NonPublicProperty.Spec/when_resolving_object_with_internal_properties_then_properties_should_be_injected.cs)
  - [protected property injection](https://github.com/tchelidze/Autofac.NonPublicProperty/blob/master/test/Autofac.Core.NonPublicProperty.Spec/when_resolving_object_with_protected_properties_then_properties_should_be_injected.cs)
+- [private property injection](https://github.com/tchelidze/Autofac.NonPublicProperty/blob/master/test/Autofac.Core.NonPublicProperty.Spec/when_resolving_object_with_private_properties_then_properties_should_be_injected.cs)
+ 
  
 # Example 
 
